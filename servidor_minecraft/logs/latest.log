@@ -1,0 +1,58 @@
+[22:17:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:17:13] [ServerMain/INFO]: Loaded 1515 recipes
+[22:17:13] [ServerMain/INFO]: Loaded 1617 advancements
+[22:17:13] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[22:17:13] [Server thread/INFO]: Loading properties
+[22:17:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:17:13] [Server thread/INFO]: Generating keypair
+[22:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:17:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:17:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:17:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:17:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:17:14] [Server thread/INFO]: Preparing level "world"
+[22:17:14] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:17:14] [Server thread/INFO]: Preparing spawn area: 100%
+[22:17:14] [Server thread/INFO]: Time elapsed: 20 ms
+[22:17:14] [Server thread/INFO]: Done (0.687s)! For help, type "help"
+[22:17:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:17:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:17:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:18:13] [Server thread/INFO]: pen[/100.68.91.103:3106] logged in with entity id 159 at (-1423.5, 70.0, 2048.5)
+[22:18:13] [Server thread/INFO]: pen joined the game
+[22:18:32] [Server thread/INFO]: pen was slain by Vindicator
+[22:19:00] [Server thread/INFO]: potodeabuela[/100.119.157.5:50796] logged in with entity id 1023 at (-1440.6623339506057, 69.0, 1958.4437180458333)
+[22:19:00] [Server thread/INFO]: potodeabuela joined the game
+[22:21:35] [Server thread/INFO]: potodeabuela was slain by Vindicator
+[22:27:39] [Server thread/INFO]: pen has made the advancement [Best Friends Forever]
+[22:29:34] [Server thread/INFO]: [potodeabuela: Teleported potodeabuela to pen]
+[22:30:57] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -9.484637479226649,3.0,2.3579212612837637
+[22:30:58] [Server thread/WARN]: Horse (vehicle of pen) moved wrongly! 2.122499965273164
+[22:30:58] [Server thread/WARN]: Horse (vehicle of pen) moved wrongly! 1.653039509501923
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -10.099304902278163,0.0,-0.7234297425234217
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -10.630932740216622,0.0,-0.7615689462741102
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.162560581554544,0.0,-0.7997081525682006
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.0,-0.8378473602510894
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.0,-0.8759865686922694
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.0,-0.9141257775474969
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.0,-0.9522649866287338
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.0,-0.9904041958334346
+[22:31:00] [Server thread/WARN]: Horse (vehicle of pen) moved too quickly! -11.219804697818972,0.7035228610038757,-1.0504238008159064
+[22:32:37] [Server thread/INFO]: pen lost connection: Disconnected
+[22:32:37] [Server thread/INFO]: pen left the game
+[22:36:40] [Server thread/INFO]: pen[/100.68.91.103:1399] logged in with entity id 7968 at (-2126.740266886826, 83.84375002384186, 1725.3566103260785)
+[22:36:40] [Server thread/INFO]: pen joined the game
+[22:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:44:02] [Server thread/INFO]: pen lost connection: Disconnected
+[22:44:02] [Server thread/INFO]: pen left the game
+[22:44:13] [Server thread/INFO]: pen[/100.68.91.103:1474] logged in with entity id 14517 at (-3513.357065379988, 65.0, 2712.224265869105)
+[22:44:13] [Server thread/INFO]: pen joined the game
+[22:55:09] [Server thread/INFO]: pen lost connection: Kicked by an operator
+[22:55:09] [Server thread/INFO]: pen left the game
+[22:55:09] [Server thread/INFO]: [potodeabuela: Kicked pen: Kicked by an operator]
+[22:55:09] [Server thread/WARN]: handleDisconnection() called twice
+[23:08:00] [Server thread/INFO]: Villager Villager['Farmer'/16758, l='ServerLevel[world]', x=-4070.14, y=63.00, z=2381.18] died, message: 'Farmer was slain by Zombie'
